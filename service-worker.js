@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thinklikeadesigner/portfolio-app-2/precache-manifest.bbba0b537a1bc7a130250dc8c62404ba.js"
+  "/thinklikeadesigner/portfolio-app-2/precache-manifest.9206cb70bb0cd337f3ec9837cdd45500.js"
 );
 
 self.addEventListener('message', (event) => {
