@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thinklikeadesigner/portfolio-app-2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/thinklikeadesigner/portfolio-app-2/static/js/main.fa3a1945.chunk.js",
+    "main.js.map": "/thinklikeadesigner/portfolio-app-2/static/js/main.fa3a1945.chunk.js.map",
+    "runtime-main.js": "/thinklikeadesigner/portfolio-app-2/static/js/runtime-main.6a7477f7.js",
+    "runtime-main.js.map": "/thinklikeadesigner/portfolio-app-2/static/js/runtime-main.6a7477f7.js.map",
+    "static/js/2.a51ad747.chunk.js": "/thinklikeadesigner/portfolio-app-2/static/js/2.a51ad747.chunk.js",
+    "static/js/2.a51ad747.chunk.js.map": "/thinklikeadesigner/portfolio-app-2/static/js/2.a51ad747.chunk.js.map",
+    "index.html": "/thinklikeadesigner/portfolio-app-2/index.html",
+    "precache-manifest.80178224b5e0cef4761e1904ecd3818f.js": "/thinklikeadesigner/portfolio-app-2/precache-manifest.80178224b5e0cef4761e1904ecd3818f.js",
+    "service-worker.js": "/thinklikeadesigner/portfolio-app-2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/thinklikeadesigner/portfolio-app-2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a51ad747.chunk.js.LICENSE.txt": "/thinklikeadesigner/portfolio-app-2/static/js/2.a51ad747.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/thinklikeadesigner/portfolio-app-2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a7477f7.js",
+    "static/js/2.a51ad747.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa3a1945.chunk.js"
+  ]
+}
